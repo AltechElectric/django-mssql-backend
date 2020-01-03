@@ -1,3 +1,5 @@
+_This is experimental, I don't know what i'm doing. Use at your own risk._
+
 django-mssql-backend
 ====================
 
